@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<K5project version="1.1">
+   <programs>
+      <pou name="PrgST" kind="program" period="1" phase="0" lge="FFL">
+         <vargroup name="PrgST" kind="LOCAL">
+         </vargroup>
+<defines name="PrgST"></defines>
+         <sourceSTIL>#info=FFL
+Network:N=1,Z=3,I=0,S=1,C=-1,D=0,T=
+Lab:
+Pragma:
+Cell:XIC,X=0,Y=0,H=0,V=0,S=1,C=0,T=
+End_Network
+Network:N=1,Z=1,I=1,S=1,C=-1,D=0,T=
+Lab:
+Pragma:
+End_Network
+#endinfo
+         </sourceSTIL>
+      </pou>
+   </programs>
+</K5project>
