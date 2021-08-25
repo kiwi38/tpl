@@ -12,7 +12,7 @@
       <Program Name="pst"/>
    </Folder>
    <Folder Name="Watch (for debugging)">
-      <File Name="Soft Scope.SS5"/>
+      <File Name="Soft Scope.ss5"/>
    </Folder>
    <Binding/>
    <Profiles/>
