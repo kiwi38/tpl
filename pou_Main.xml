@@ -7,6 +7,7 @@
          </vargroup>
 <defines name="Main"></defines>
          <sourceFBD sxcell="16" sycell="16">
+            <FBDbox id="8" order="0" dx="8" dy="4" sx="4" sy="3" nbi="2" nbo="1" style="0" kind="OP" type="&amp;"/>
             <FBDbox id="1" order="0" dx="10" dy="8" sx="4" sy="3" nbi="2" nbo="1" style="0" kind="OP" type="&amp;"/>
             <FBDvarbox id="2" order="0" dx="1" dy="9" sx="8" sy="1" symbol="" style="0"/>
             <FBDvarbox id="4" order="0" dx="15" dy="9" sx="8" sy="1" symbol="" style="0"/>
