@@ -10,6 +10,7 @@ Network:N=1,Z=3,I=0,S=1,C=-1,D=0,T=
 Lab:
 Pragma:
 Cell:XIC,X=0,Y=0,H=0,V=0,S=1,C=0,T=
+Cell:OTE,X=1,Y=0,H=0,V=0,S=1,C=0,T=
 End_Network
 Network:N=1,Z=1,I=1,S=1,C=-1,D=0,T=
 Lab:
