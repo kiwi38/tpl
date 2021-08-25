@@ -9,6 +9,7 @@
    <Folder Name="Programs">
       <Program Name="Main"/>
       <Program Name="PrgST"/>
+      <Program Name="pst"/>
    </Folder>
    <Folder Name="Watch (for debugging)">
       <File Name="Soft Scope.SS5"/>
