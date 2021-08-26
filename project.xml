@@ -55,5 +55,6 @@
       <pou name="pOnBadIndex" sect="end" lge="ST"/>
       <pou name="PrgST" sect="end" lge="FFL"/>
       <pou name="pst" sect="end" lge="ST"/>
+      <pou name="pst2" sect="end" lge="ST"/>
    </poulist>
 </K5project>
