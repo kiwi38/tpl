@@ -8,12 +8,12 @@
    </Folder>
    <Folder Name="Programs">
       <Program Name="Main"/>
-      <Program Name="PrgST"/>
-      <Program Name="pst"/>
    </Folder>
    <Folder Name="Watch (for debugging)">
-      <File Name="Soft Scope.ss5"/>
+      <File Name="Soft Scope.SS5"/>
    </Folder>
+   <Program Name="PrgST"/>
+   <Program Name="pst"/>
    <Binding/>
    <Profiles/>
    <GlobalDef/>
